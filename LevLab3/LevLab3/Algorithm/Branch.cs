@@ -12,6 +12,7 @@ namespace SpecialLabs3
         private int _upBound;
         private int _lowBound;
         private readonly IBoundFinder _upBoundFinder;
+
         private readonly IBoundFinder _lowBoundFinder;
         public int LowBound => _lowBound;
 
