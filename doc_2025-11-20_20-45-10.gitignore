@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.iml
+*.csproj.user
+
+# Logs and temp files
+*.log
+*.tmp
+
+# ASP.NET Core environment config
+appsettings.Development.json
+appsettings.Production.json
