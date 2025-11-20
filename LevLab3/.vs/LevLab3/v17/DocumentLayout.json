@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\algorithm\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\algorithm\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\algorithm\\branchandbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\algorithm\\branchandbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\choosingstratagies\\ibranchchoosingstratagy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\choosingstratagies\\ibranchchoosingstratagy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\algorithm\\extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\algorithm\\extras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\bounds\\nodecountdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\bounds\\nodecountdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\bounds\\lowboundfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\bounds\\lowboundfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\choosingstratagies\\mychoosingstratagy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\choosingstratagies\\mychoosingstratagy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\bounds\\myupboundfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\bounds\\myupboundfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\bounds\\upboundfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\bounds\\upboundfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\choosingstratagies\\optimisticbranchchoosing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\choosingstratagies\\optimisticbranchchoosing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\bounds\\mylowfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\bounds\\mylowfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|c:\\users\\maria\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0430 1.1\\\u043B\u0451\u0432\u0430\\levlab3\\levlab3\\algorithm\\isolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8CF33-6F0B-44C8-8D9C-1D6D52AA39E1}|LevLab3\\SpecialLabs3.csproj|solutionrelative:levlab3\\algorithm\\isolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpBoundFinder.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\UpBoundFinder.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Bounds\\UpBoundFinder.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\UpBoundFinder.cs",
+              "RelativeToolTip": "LevLab3\\Bounds\\UpBoundFinder.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvxUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:04:18.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyUpBoundFinder.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\MyUpBoundFinder.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Bounds\\MyUpBoundFinder.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\MyUpBoundFinder.cs",
+              "RelativeToolTip": "LevLab3\\Bounds\\MyUpBoundFinder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:49:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NodeCountDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\NodeCountDecorator.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Bounds\\NodeCountDecorator.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\NodeCountDecorator.cs",
+              "RelativeToolTip": "LevLab3\\Bounds\\NodeCountDecorator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:25:54.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BranchAndBound.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Algorithm\\BranchAndBound.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Algorithm\\BranchAndBound.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Algorithm\\BranchAndBound.cs",
+              "RelativeToolTip": "LevLab3\\Algorithm\\BranchAndBound.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:39:42.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISolver.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Algorithm\\ISolver.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Algorithm\\ISolver.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Algorithm\\ISolver.cs",
+              "RelativeToolTip": "LevLab3\\Algorithm\\ISolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:39:39.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LowBoundFinder.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\LowBoundFinder.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Bounds\\LowBoundFinder.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\LowBoundFinder.cs",
+              "RelativeToolTip": "LevLab3\\Bounds\\LowBoundFinder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:39:24.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyLowFinder.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\MyLowFinder.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Bounds\\MyLowFinder.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Bounds\\MyLowFinder.cs",
+              "RelativeToolTip": "LevLab3\\Bounds\\MyLowFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:23:04.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBranchChoosingStratagy.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\ChoosingStratagies\\IBranchChoosingStratagy.cs",
+              "RelativeDocumentMoniker": "LevLab3\\ChoosingStratagies\\IBranchChoosingStratagy.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\ChoosingStratagies\\IBranchChoosingStratagy.cs",
+              "RelativeToolTip": "LevLab3\\ChoosingStratagies\\IBranchChoosingStratagy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:20:18.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OptimisticBranchChoosing.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\ChoosingStratagies\\OptimisticBranchChoosing.cs",
+              "RelativeDocumentMoniker": "LevLab3\\ChoosingStratagies\\OptimisticBranchChoosing.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\ChoosingStratagies\\OptimisticBranchChoosing.cs",
+              "RelativeToolTip": "LevLab3\\ChoosingStratagies\\OptimisticBranchChoosing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:20:19.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyChoosingStratagy.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\ChoosingStratagies\\MyChoosingStratagy.cs",
+              "RelativeDocumentMoniker": "LevLab3\\ChoosingStratagies\\MyChoosingStratagy.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\ChoosingStratagies\\MyChoosingStratagy.cs",
+              "RelativeToolTip": "LevLab3\\ChoosingStratagies\\MyChoosingStratagy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:19:37.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extras.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Algorithm\\Extras.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Algorithm\\Extras.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Algorithm\\Extras.cs",
+              "RelativeToolTip": "LevLab3\\Algorithm\\Extras.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:04:41.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Algorithm\\Branch.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Algorithm\\Branch.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Algorithm\\Branch.cs",
+              "RelativeToolTip": "LevLab3\\Algorithm\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:02:49.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Program.cs",
+              "RelativeDocumentMoniker": "LevLab3\\Program.cs",
+              "ToolTip": "C:\\Users\\Maria\\Documents\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0430 1.1\\\u041B\u0451\u0432\u0430\\LevLab3\\LevLab3\\Program.cs",
+              "RelativeToolTip": "LevLab3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:01:11.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

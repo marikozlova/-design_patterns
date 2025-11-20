@@ -1,0 +1,28 @@
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.exe
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.deps.json
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.runtimeconfig.json
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.dll
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.pdb
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.dll
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\refint\SpecialLabs3.dll
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.pdb
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.genruntimeconfig.cache
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\ref\SpecialLabs3.dll
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.exe
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.deps.json
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.runtimeconfig.json
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.dll
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\bin\Debug\net8.0\SpecialLabs3.pdb
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.AssemblyInfoInputs.cache
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.AssemblyInfo.cs
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.dll
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\refint\SpecialLabs3.dll
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.pdb
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\SpecialLabs3.genruntimeconfig.cache
+C:\Users\Maria\Documents\Учеба\Мага 1.1\Лёва\LevLab3\LevLab3\obj\Debug\net8.0\ref\SpecialLabs3.dll

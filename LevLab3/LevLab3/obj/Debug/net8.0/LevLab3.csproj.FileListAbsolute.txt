@@ -1,0 +1,14 @@
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\LevLab3.exe
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\LevLab3.deps.json
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\LevLab3.runtimeconfig.json
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\LevLab3.dll
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\bin\Debug\net8.0\LevLab3.pdb
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\LevLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\LevLab3.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\LevLab3.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\LevLab3.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\LevLab3.dll
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\refint\LevLab3.dll
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\LevLab3.pdb
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\LevLab3.genruntimeconfig.cache
+C:\Users\Mikhail\source\repos\LevLab3\LevLab3\obj\Debug\net8.0\ref\LevLab3.dll
